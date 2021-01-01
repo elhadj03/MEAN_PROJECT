@@ -1,0 +1,44 @@
+<nav class="navbar navbar-dark bg-dark navbar-fixed-top navbar-expand">
+  <div class="container-fluid">
+    <ul *ngIf="!(user|async)" class="navbar-nav">
+        <li routerLinkActive="active" class="nav-item">
+            <a class="nav-link active" routerLink="/membres/connexion">Se connecter</a>
+        </li>
+        <li routerLinkActive="active"class="nav-item">
+          <a class="nav-link active" routerLink="/membres/inscription">S'inscrire</a>
+        </li>
+    </ul>
+    <ul *ngIf="user|async" class="navbar-nav">
+        <li routerLinkActive="active"class="nav-item">
+            <a class="nav-link active" routerLink="/produits">Liste des produits</a>
+        </li>
+        <li routerLinkActive="active" class="nav-item">
+          <a class="nav-link active" routerLink="/panier">Panier</a>
+      </li>
+        <li routerLinkActive="active"class="nav-item">
+          <a class="nav-link active" (click)="deconnexion()">Déconnexion de {{user|async}}</a>
+      </li>
+
+      <app-compteur> </app-compteur>
+
+  </ul>
+
+  <form class="form-inline my-2 my-lg-0" >
+    <input class="form-control mr-sm-2" type="search"  placeholder="Search" aria-label="Search">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    <!-- <input class="form-control mr-sm-2" type="search" [(ngModel)]="searchText" placeholder="Search" aria-label="Search">
+    <ul *ngFor="let data of dataset | filter: searchText"> -->
+   <!-- <li>{{data}}</li>
+    </ul> -->
+
+
+
+  </form>
+
+</div>
+</nav>
+
+
+
+
+

@@ -1,0 +1,900 @@
+<s> [webpack.Progress] 0% compiling
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/1 modules 1 active multi /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:0/sockjs-node&sockPath=/sockjs-node /home/e20190012117/projetWeb/ventes/src/main.ts
+<s> [webpack.Progress] 10% building 1/1 modules 0 active 
+<s> [webpack.Progress] 10% building 1/1 modules 0 active 
+<s> [webpack.Progress] 10% building 1/2 modules 1 active multi /home/e20190012117/projetWeb/ventes/src/polyfills.ts
+<s> [webpack.Progress] 10% building 2/2 modules 0 active 
+<s> [webpack.Progress] 10% building 2/2 modules 0 active 
+<s> [webpack.Progress] 10% building 2/3 modules 1 active multi /home/e20190012117/projetWeb/ventes/src/styles.css
+<s> [webpack.Progress] 10% building 3/3 modules 0 active 
+<s> [webpack.Progress] 10% building 3/4 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:0/sockjs-node&sockPath=/sockjs-node
+<s> [webpack.Progress] 10% building 4/4 modules 0 active 
+<s> [webpack.Progress] 10% building 4/5 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/socket.js
+<s> [webpack.Progress] 10% building 5/5 modules 0 active 
+<s> [webpack.Progress] 10% building 5/6 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/overlay.js
+<s> [webpack.Progress] 10% building 6/6 modules 0 active 
+<s> [webpack.Progress] 10% building 6/7 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/utils/log.js
+<s> [webpack.Progress] 10% building 7/7 modules 0 active 
+<s> [webpack.Progress] 10% building 7/8 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/utils/sendMessage.js
+<s> [webpack.Progress] 10% building 8/8 modules 0 active 
+<s> [webpack.Progress] 10% building 8/9 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/utils/reloadApp.js
+<s> [webpack.Progress] 11% building 9/9 modules 0 active 
+<s> [webpack.Progress] 11% building 9/10 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/utils/createSocketUrl.js
+<s> [webpack.Progress] 11% building 10/10 modules 0 active 
+<s> [webpack.Progress] 11% building 10/11 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/hot sync nonrecursive /^\.\/log$/
+<s> [webpack.Progress] 11% building 10/12 modules 2 active /home/e20190012117/projetWeb/ventes/node_modules/style-loader/dist/cjs.js!/home/e20190012117/projetWeb/ventes/node_modules/css-loader/dist/cjs.js??ref--12-1!/home/e20190012117/projetWeb/ventes/node_modules/postcss-loader/src/index.js??embedded!/home/e20190012117/projetWeb/ventes/src/styles.css
+<s> [webpack.Progress] 11% building 11/12 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/hot sync nonrecursive /^\.\/log$/
+<s> [webpack.Progress] 11% building 11/13 modules 2 active /home/e20190012117/projetWeb/ventes/node_modules/css-loader/dist/cjs.js??ref--12-1!/home/e20190012117/projetWeb/ventes/node_modules/postcss-loader/src/index.js??embedded!/home/e20190012117/projetWeb/ventes/src/styles.css
+<s> [webpack.Progress] 11% building 12/13 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/hot sync nonrecursive /^\.\/log$/
+<s> [webpack.Progress] 11% building 13/13 modules 0 active 
+<s> [webpack.Progress] 11% building 13/14 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
+<s> [webpack.Progress] 11% building 14/14 modules 0 active 
+<s> [webpack.Progress] 11% building 14/15 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/css-loader/dist/runtime/api.js
+<s> [webpack.Progress] 11% building 15/15 modules 0 active 
+<s> [webpack.Progress] 30% building 15/15 modules 0 active 
+<s> [webpack.Progress] 30% building 15/16 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/clients/SockJSClient.js
+<s> [webpack.Progress] 30% building 16/16 modules 0 active 
+<s> [webpack.Progress] 30% building 16/17 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js
+<s> [webpack.Progress] 30% building 17/17 modules 0 active 
+<s> [webpack.Progress] 30% building 17/18 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/hot/log.js
+<s> [webpack.Progress] 30% building 18/18 modules 0 active 
+<s> [webpack.Progress] 30% building 18/19 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack-dev-server/client/clients/BaseClient.js
+<s> [webpack.Progress] 30% building 19/19 modules 0 active 
+<s> [webpack.Progress] 30% building 19/20 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/hot/emitter.js
+<s> [webpack.Progress] 30% building 20/20 modules 0 active 
+<s> [webpack.Progress] 30% building 20/21 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/strip-ansi/index.js
+<s> [webpack.Progress] 30% building 21/21 modules 0 active 
+<s> [webpack.Progress] 30% building 21/22 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/ansi-html/index.js
+<s> [webpack.Progress] 30% building 22/22 modules 0 active 
+<s> [webpack.Progress] 30% building 22/23 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/html-entities/lib/index.js
+<s> [webpack.Progress] 30% building 23/23 modules 0 active 
+<s> [webpack.Progress] 30% building 23/24 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/url/url.js
+<s> [webpack.Progress] 30% building 24/24 modules 0 active 
+<s> [webpack.Progress] 30% building 24/25 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/loglevel/lib/loglevel.js
+<s> [webpack.Progress] 30% building 25/25 modules 0 active 
+<s> [webpack.Progress] 30% building 25/26 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/main.ts
+<s> [webpack.Progress] 30% building 25/27 modules 2 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/polyfills.ts
+<s> [webpack.Progress] 30% building 26/27 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/polyfills.ts
+<s> [webpack.Progress] 30% building 27/27 modules 0 active 
+<s> [webpack.Progress] 30% building 27/28 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 30% building 28/28 modules 0 active 
+<s> [webpack.Progress] 30% building 28/29 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/environments/environment.ts
+<s> [webpack.Progress] 30% building 29/29 modules 0 active 
+<s> [webpack.Progress] 30% building 29/30 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/html-entities/lib/xml-entities.js
+<s> [webpack.Progress] 30% building 30/30 modules 0 active 
+<s> [webpack.Progress] 30% building 30/31 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/html-entities/lib/html4-entities.js
+<s> [webpack.Progress] 30% building 31/31 modules 0 active 
+<s> [webpack.Progress] 30% building 31/32 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/html-entities/lib/html5-entities.js
+<s> [webpack.Progress] 30% building 32/32 modules 0 active 
+<s> [webpack.Progress] 30% building 32/33 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/url/util.js
+<s> [webpack.Progress] 30% building 33/33 modules 0 active 
+<s> [webpack.Progress] 30% building 33/34 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/sockjs-client/dist/sockjs.js
+<s> [webpack.Progress] 30% building 34/34 modules 0 active 
+<s> [webpack.Progress] 30% building 34/35 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/produits.service.ts
+<s> [webpack.Progress] 30% building 35/35 modules 0 active 
+<s> [webpack.Progress] 30% building 35/36 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app-routing.module.ts
+<s> [webpack.Progress] 30% building 36/36 modules 0 active 
+<s> [webpack.Progress] 30% building 36/37 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.component.ts
+<s> [webpack.Progress] 30% building 37/37 modules 0 active 
+<s> [webpack.Progress] 30% building 37/38 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/produits/produits.component.ts
+<s> [webpack.Progress] 30% building 38/38 modules 0 active 
+<s> [webpack.Progress] 30% building 38/39 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/menu/menu.component.ts
+<s> [webpack.Progress] 30% building 39/39 modules 0 active 
+<s> [webpack.Progress] 30% building 39/40 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/connexion/connexion.component.ts
+<s> [webpack.Progress] 30% building 40/40 modules 0 active 
+<s> [webpack.Progress] 30% building 40/41 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/categories/categories.component.ts
+<s> [webpack.Progress] 30% building 41/41 modules 0 active 
+<s> [webpack.Progress] 30% building 41/42 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/authentification.service.ts
+<s> [webpack.Progress] 30% building 42/42 modules 0 active 
+<s> [webpack.Progress] 30% building 42/43 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/events/events.js
+<s> [webpack.Progress] 30% building 43/43 modules 0 active 
+<s> [webpack.Progress] 30% building 43/44 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/zone.js/dist/zone-evergreen.js
+<s> [webpack.Progress] 30% building 44/44 modules 0 active 
+<s> [webpack.Progress] 50% building 44/44 modules 0 active 
+<s> [webpack.Progress] 50% building 44/45 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js
+<s> [webpack.Progress] 50% building 45/45 modules 0 active 
+<s> [webpack.Progress] 50% building 45/46 modules 1 active /home/e20190012117/projetWeb/ventes/$$_lazy_route_resource lazy groupOptions: {} namespace object
+<s> [webpack.Progress] 50% building 46/46 modules 0 active 
+<s> [webpack.Progress] 50% building 46/47 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/url/node_modules/punycode/punycode.js
+<s> [webpack.Progress] 50% building 47/47 modules 0 active 
+<s> [webpack.Progress] 50% building 47/48 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/ansi-regex/index.js
+<s> [webpack.Progress] 50% building 48/48 modules 0 active 
+<s> [webpack.Progress] 50% building 48/49 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js
+<s> [webpack.Progress] 50% building 49/49 modules 0 active 
+<s> [webpack.Progress] 50% building 49/50 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/webpack/buildin/module.js
+<s> [webpack.Progress] 50% building 50/50 modules 0 active 
+<s> [webpack.Progress] 50% building 50/51 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/querystring/index.js
+<s> [webpack.Progress] 50% building 51/51 modules 0 active 
+<s> [webpack.Progress] 50% building 51/52 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js
+<s> [webpack.Progress] 50% building 52/52 modules 0 active 
+<s> [webpack.Progress] 50% building 52/53 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/common/__ivy_ngcc__/fesm2015/http.js
+<s> [webpack.Progress] 50% building 53/53 modules 0 active 
+<s> [webpack.Progress] 50% building 53/54 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/index.js
+<s> [webpack.Progress] 50% building 54/54 modules 0 active 
+<s> [webpack.Progress] 50% building 54/55 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js
+<s> [webpack.Progress] 50% building 55/55 modules 0 active 
+<s> [webpack.Progress] 50% building 55/56 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js
+<s> [webpack.Progress] 50% building 56/56 modules 0 active 
+<s> [webpack.Progress] 50% building 56/57 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/querystring/decode.js
+<s> [webpack.Progress] 50% building 57/57 modules 0 active 
+<s> [webpack.Progress] 50% building 57/58 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/querystring/encode.js
+<s> [webpack.Progress] 50% building 58/58 modules 0 active 
+<s> [webpack.Progress] 50% building 58/59 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Observable.js
+<s> [webpack.Progress] 50% building 59/59 modules 0 active 
+<s> [webpack.Progress] 50% building 59/60 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Subject.js
+<s> [webpack.Progress] 50% building 60/60 modules 0 active 
+<s> [webpack.Progress] 50% building 60/61 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/BehaviorSubject.js
+<s> [webpack.Progress] 50% building 61/61 modules 0 active 
+<s> [webpack.Progress] 50% building 61/62 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/ReplaySubject.js
+<s> [webpack.Progress] 50% building 62/62 modules 0 active 
+<s> [webpack.Progress] 50% building 62/63 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/AsyncSubject.js
+<s> [webpack.Progress] 50% building 63/63 modules 0 active 
+<s> [webpack.Progress] 50% building 63/64 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Scheduler.js
+<s> [webpack.Progress] 50% building 64/64 modules 0 active 
+<s> [webpack.Progress] 50% building 64/65 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Subscription.js
+<s> [webpack.Progress] 50% building 65/65 modules 0 active 
+<s> [webpack.Progress] 50% building 65/66 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Subscriber.js
+<s> [webpack.Progress] 50% building 66/66 modules 0 active 
+<s> [webpack.Progress] 50% building 66/67 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Notification.js
+<s> [webpack.Progress] 50% building 67/67 modules 0 active 
+<s> [webpack.Progress] 50% building 67/68 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/config.js
+<s> [webpack.Progress] 50% building 68/68 modules 0 active 
+<s> [webpack.Progress] 50% building 68/69 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js
+<s> [webpack.Progress] 50% building 69/69 modules 0 active 
+<s> [webpack.Progress] 50% building 69/70 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/bindCallback.js
+<s> [webpack.Progress] 50% building 70/70 modules 0 active 
+<s> [webpack.Progress] 50% building 70/71 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/bindNodeCallback.js
+<s> [webpack.Progress] 50% building 71/71 modules 0 active 
+<s> [webpack.Progress] 50% building 71/72 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/combineLatest.js
+<s> [webpack.Progress] 50% building 72/72 modules 0 active 
+<s> [webpack.Progress] 50% building 72/73 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/concat.js
+<s> [webpack.Progress] 50% building 73/73 modules 0 active 
+<s> [webpack.Progress] 50% building 73/74 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/defer.js
+<s> [webpack.Progress] 50% building 74/74 modules 0 active 
+<s> [webpack.Progress] 50% building 74/75 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/empty.js
+<s> [webpack.Progress] 50% building 75/75 modules 0 active 
+<s> [webpack.Progress] 50% building 75/76 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/forkJoin.js
+<s> [webpack.Progress] 50% building 76/76 modules 0 active 
+<s> [webpack.Progress] 50% building 76/77 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/from.js
+<s> [webpack.Progress] 50% building 77/77 modules 0 active 
+<s> [webpack.Progress] 50% building 77/78 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/fromEvent.js
+<s> [webpack.Progress] 50% building 78/78 modules 0 active 
+<s> [webpack.Progress] 50% building 78/79 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/fromEventPattern.js
+<s> [webpack.Progress] 50% building 79/79 modules 0 active 
+<s> [webpack.Progress] 50% building 79/80 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/generate.js
+<s> [webpack.Progress] 50% building 80/80 modules 0 active 
+<s> [webpack.Progress] 50% building 80/81 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/iif.js
+<s> [webpack.Progress] 50% building 81/81 modules 0 active 
+<s> [webpack.Progress] 50% building 81/82 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/interval.js
+<s> [webpack.Progress] 50% building 82/82 modules 0 active 
+<s> [webpack.Progress] 50% building 82/83 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/merge.js
+<s> [webpack.Progress] 50% building 83/83 modules 0 active 
+<s> [webpack.Progress] 50% building 83/84 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/never.js
+<s> [webpack.Progress] 50% building 84/84 modules 0 active 
+<s> [webpack.Progress] 50% building 84/85 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/of.js
+<s> [webpack.Progress] 50% building 85/85 modules 0 active 
+<s> [webpack.Progress] 50% building 85/86 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/onErrorResumeNext.js
+<s> [webpack.Progress] 50% building 86/86 modules 0 active 
+<s> [webpack.Progress] 50% building 86/87 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/pairs.js
+<s> [webpack.Progress] 50% building 87/87 modules 0 active 
+<s> [webpack.Progress] 50% building 87/88 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/partition.js
+<s> [webpack.Progress] 50% building 88/88 modules 0 active 
+<s> [webpack.Progress] 50% building 88/89 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/race.js
+<s> [webpack.Progress] 50% building 89/89 modules 0 active 
+<s> [webpack.Progress] 50% building 89/90 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/range.js
+<s> [webpack.Progress] 50% building 90/90 modules 0 active 
+<s> [webpack.Progress] 50% building 90/91 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/throwError.js
+<s> [webpack.Progress] 50% building 91/91 modules 0 active 
+<s> [webpack.Progress] 50% building 91/92 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/timer.js
+<s> [webpack.Progress] 50% building 92/92 modules 0 active 
+<s> [webpack.Progress] 50% building 92/93 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/using.js
+<s> [webpack.Progress] 50% building 93/93 modules 0 active 
+<s> [webpack.Progress] 50% building 93/94 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/zip.js
+<s> [webpack.Progress] 50% building 94/94 modules 0 active 
+<s> [webpack.Progress] 50% building 94/95 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/groupBy.js
+<s> [webpack.Progress] 50% building 95/95 modules 0 active 
+<s> [webpack.Progress] 50% building 95/96 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/symbol/observable.js
+<s> [webpack.Progress] 50% building 96/96 modules 0 active 
+<s> [webpack.Progress] 50% building 96/97 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/asap.js
+<s> [webpack.Progress] 50% building 97/97 modules 0 active 
+<s> [webpack.Progress] 50% building 97/98 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/async.js
+<s> [webpack.Progress] 50% building 98/98 modules 0 active 
+<s> [webpack.Progress] 50% building 98/99 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/queue.js
+<s> [webpack.Progress] 50% building 99/99 modules 0 active 
+<s> [webpack.Progress] 50% building 99/100 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/animationFrame.js
+<s> [webpack.Progress] 50% building 100/100 modules 0 active 
+<s> [webpack.Progress] 50% building 100/101 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/VirtualTimeScheduler.js
+<s> [webpack.Progress] 50% building 101/101 modules 0 active 
+<s> [webpack.Progress] 50% building 101/102 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/pipe.js
+<s> [webpack.Progress] 50% building 102/102 modules 0 active 
+<s> [webpack.Progress] 50% building 102/103 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/noop.js
+<s> [webpack.Progress] 50% building 103/103 modules 0 active 
+<s> [webpack.Progress] 50% building 103/104 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/identity.js
+<s> [webpack.Progress] 50% building 104/104 modules 0 active 
+<s> [webpack.Progress] 50% building 104/105 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isObservable.js
+<s> [webpack.Progress] 50% building 105/105 modules 0 active 
+<s> [webpack.Progress] 50% building 105/106 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/ArgumentOutOfRangeError.js
+<s> [webpack.Progress] 50% building 106/106 modules 0 active 
+<s> [webpack.Progress] 50% building 106/107 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/EmptyError.js
+<s> [webpack.Progress] 50% building 107/107 modules 0 active 
+<s> [webpack.Progress] 50% building 107/108 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/ObjectUnsubscribedError.js
+<s> [webpack.Progress] 50% building 108/108 modules 0 active 
+<s> [webpack.Progress] 50% building 108/109 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/UnsubscriptionError.js
+<s> [webpack.Progress] 50% building 109/109 modules 0 active 
+<s> [webpack.Progress] 50% building 109/110 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/TimeoutError.js
+<s> [webpack.Progress] 50% building 110/110 modules 0 active 
+<s> [webpack.Progress] 50% building 110/111 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js
+<s> [webpack.Progress] 50% building 111/111 modules 0 active 
+<s> [webpack.Progress] 50% building 111/112 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/operators/index.js
+<s> [webpack.Progress] 50% building 112/112 modules 0 active 
+<s> [webpack.Progress] 50% building 112/113 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/canReportError.js
+<s> [webpack.Progress] 50% building 113/113 modules 0 active 
+<s> [webpack.Progress] 50% building 113/114 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/toSubscriber.js
+<s> [webpack.Progress] 50% building 114/114 modules 0 active 
+<s> [webpack.Progress] 50% building 114/115 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/SubjectSubscription.js
+<s> [webpack.Progress] 50% building 115/115 modules 0 active 
+<s> [webpack.Progress] 50% building 115/116 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/symbol/rxSubscriber.js
+<s> [webpack.Progress] 50% building 116/116 modules 0 active 
+<s> [webpack.Progress] 50% building 116/117 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/observeOn.js
+<s> [webpack.Progress] 50% building 117/117 modules 0 active 
+<s> [webpack.Progress] 50% building 117/118 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isArray.js
+<s> [webpack.Progress] 50% building 118/118 modules 0 active 
+<s> [webpack.Progress] 50% building 118/119 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isObject.js
+<s> [webpack.Progress] 50% building 119/119 modules 0 active 
+<s> [webpack.Progress] 50% building 119/120 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isFunction.js
+<s> [webpack.Progress] 50% building 120/120 modules 0 active 
+<s> [webpack.Progress] 50% building 120/121 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/Observer.js
+<s> [webpack.Progress] 50% building 121/121 modules 0 active 
+<s> [webpack.Progress] 50% building 121/122 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/hostReportError.js
+<s> [webpack.Progress] 50% building 122/122 modules 0 active 
+<s> [webpack.Progress] 50% building 122/123 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/refCount.js
+<s> [webpack.Progress] 50% building 123/123 modules 0 active 
+<s> [webpack.Progress] 50% building 123/124 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/map.js
+<s> [webpack.Progress] 50% building 124/124 modules 0 active 
+<s> [webpack.Progress] 50% building 124/125 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isScheduler.js
+<s> [webpack.Progress] 50% building 125/125 modules 0 active 
+<s> [webpack.Progress] 50% building 125/126 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/OuterSubscriber.js
+<s> [webpack.Progress] 50% building 126/126 modules 0 active 
+<s> [webpack.Progress] 50% building 126/127 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeToResult.js
+<s> [webpack.Progress] 50% building 127/127 modules 0 active 
+<s> [webpack.Progress] 50% building 127/128 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/fromArray.js
+<s> [webpack.Progress] 50% building 128/128 modules 0 active 
+<s> [webpack.Progress] 50% building 128/129 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/concatAll.js
+<s> [webpack.Progress] 50% building 129/129 modules 0 active 
+<s> [webpack.Progress] 50% building 129/130 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js
+<s> [webpack.Progress] 50% building 130/130 modules 0 active 
+<s> [webpack.Progress] 50% building 130/131 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isNumeric.js
+<s> [webpack.Progress] 50% building 131/131 modules 0 active 
+<s> [webpack.Progress] 50% building 131/132 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/mergeAll.js
+<s> [webpack.Progress] 50% building 132/132 modules 0 active 
+<s> [webpack.Progress] 50% building 132/133 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduled/scheduleArray.js
+<s> [webpack.Progress] 50% building 133/133 modules 0 active 
+<s> [webpack.Progress] 50% building 133/134 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/not.js
+<s> [webpack.Progress] 50% building 134/134 modules 0 active 
+<s> [webpack.Progress] 50% building 134/135 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/filter.js
+<s> [webpack.Progress] 50% building 135/135 modules 0 active 
+<s> [webpack.Progress] 50% building 135/136 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/symbol/iterator.js
+<s> [webpack.Progress] 50% building 136/136 modules 0 active 
+<s> [webpack.Progress] 50% building 136/137 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/innerSubscribe.js
+<s> [webpack.Progress] 50% building 137/137 modules 0 active 
+<s> [webpack.Progress] 50% building 137/138 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AsapAction.js
+<s> [webpack.Progress] 50% building 138/138 modules 0 active 
+<s> [webpack.Progress] 50% building 138/139 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AsapScheduler.js
+<s> [webpack.Progress] 50% building 139/139 modules 0 active 
+<s> [webpack.Progress] 50% building 139/140 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AsyncAction.js
+<s> [webpack.Progress] 50% building 140/140 modules 0 active 
+<s> [webpack.Progress] 50% building 140/141 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AsyncScheduler.js
+<s> [webpack.Progress] 50% building 141/141 modules 0 active 
+<s> [webpack.Progress] 50% building 141/142 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/QueueAction.js
+<s> [webpack.Progress] 50% building 142/142 modules 0 active 
+<s> [webpack.Progress] 50% building 142/143 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/QueueScheduler.js
+<s> [webpack.Progress] 50% building 143/143 modules 0 active 
+<s> [webpack.Progress] 50% building 143/144 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameAction.js
+<s> [webpack.Progress] 50% building 144/144 modules 0 active 
+<s> [webpack.Progress] 50% building 144/145 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameScheduler.js
+<s> [webpack.Progress] 50% building 145/145 modules 0 active 
+<s> [webpack.Progress] 50% building 145/146 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduled/scheduleObservable.js
+<s> [webpack.Progress] 50% building 146/146 modules 0 active 
+<s> [webpack.Progress] 50% building 146/147 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduled/schedulePromise.js
+<s> [webpack.Progress] 50% building 147/147 modules 0 active 
+<s> [webpack.Progress] 50% building 147/148 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduled/scheduleIterable.js
+<s> [webpack.Progress] 50% building 148/148 modules 0 active 
+<s> [webpack.Progress] 50% building 148/149 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isInteropObservable.js
+<s> [webpack.Progress] 50% building 149/149 modules 0 active 
+<s> [webpack.Progress] 50% building 149/150 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isPromise.js
+<s> [webpack.Progress] 50% building 150/150 modules 0 active 
+<s> [webpack.Progress] 50% building 150/151 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isArrayLike.js
+<s> [webpack.Progress] 50% building 151/151 modules 0 active 
+<s> [webpack.Progress] 50% building 151/152 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isIterable.js
+<s> [webpack.Progress] 50% building 152/152 modules 0 active 
+<s> [webpack.Progress] 50% building 152/153 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/audit.js
+<s> [webpack.Progress] 50% building 153/153 modules 0 active 
+<s> [webpack.Progress] 50% building 153/154 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/auditTime.js
+<s> [webpack.Progress] 50% building 154/154 modules 0 active 
+<s> [webpack.Progress] 50% building 154/155 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/buffer.js
+<s> [webpack.Progress] 50% building 155/155 modules 0 active 
+<s> [webpack.Progress] 50% building 155/156 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/bufferCount.js
+<s> [webpack.Progress] 50% building 156/156 modules 0 active 
+<s> [webpack.Progress] 50% building 156/157 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/bufferTime.js
+<s> [webpack.Progress] 50% building 157/157 modules 0 active 
+<s> [webpack.Progress] 50% building 157/158 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/bufferToggle.js
+<s> [webpack.Progress] 50% building 158/158 modules 0 active 
+<s> [webpack.Progress] 50% building 158/159 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/bufferWhen.js
+<s> [webpack.Progress] 50% building 159/159 modules 0 active 
+<s> [webpack.Progress] 50% building 159/160 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/catchError.js
+<s> [webpack.Progress] 50% building 160/160 modules 0 active 
+<s> [webpack.Progress] 50% building 160/161 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/combineAll.js
+<s> [webpack.Progress] 50% building 161/161 modules 0 active 
+<s> [webpack.Progress] 50% building 161/162 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/combineLatest.js
+<s> [webpack.Progress] 50% building 162/162 modules 0 active 
+<s> [webpack.Progress] 50% building 162/163 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/concat.js
+<s> [webpack.Progress] 50% building 163/163 modules 0 active 
+<s> [webpack.Progress] 50% building 163/164 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/concatMap.js
+<s> [webpack.Progress] 50% building 164/164 modules 0 active 
+<s> [webpack.Progress] 50% building 164/165 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/concatMapTo.js
+<s> [webpack.Progress] 50% building 165/165 modules 0 active 
+<s> [webpack.Progress] 50% building 165/166 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/count.js
+<s> [webpack.Progress] 50% building 166/166 modules 0 active 
+<s> [webpack.Progress] 50% building 166/167 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/debounce.js
+<s> [webpack.Progress] 50% building 167/167 modules 0 active 
+<s> [webpack.Progress] 50% building 167/168 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/debounceTime.js
+<s> [webpack.Progress] 50% building 168/168 modules 0 active 
+<s> [webpack.Progress] 50% building 168/169 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/defaultIfEmpty.js
+<s> [webpack.Progress] 50% building 169/169 modules 0 active 
+<s> [webpack.Progress] 50% building 169/170 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/delay.js
+<s> [webpack.Progress] 50% building 170/170 modules 0 active 
+<s> [webpack.Progress] 50% building 170/171 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/zipAll.js
+<s> [webpack.Progress] 50% building 171/171 modules 0 active 
+<s> [webpack.Progress] 50% building 171/172 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/zip.js
+<s> [webpack.Progress] 50% building 172/172 modules 0 active 
+<s> [webpack.Progress] 50% building 172/173 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/withLatestFrom.js
+<s> [webpack.Progress] 50% building 173/173 modules 0 active 
+<s> [webpack.Progress] 50% building 173/174 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/windowWhen.js
+<s> [webpack.Progress] 50% building 174/174 modules 0 active 
+<s> [webpack.Progress] 50% building 174/175 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/windowToggle.js
+<s> [webpack.Progress] 50% building 175/175 modules 0 active 
+<s> [webpack.Progress] 50% building 175/176 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/windowTime.js
+<s> [webpack.Progress] 50% building 176/176 modules 0 active 
+<s> [webpack.Progress] 50% building 176/177 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/windowCount.js
+<s> [webpack.Progress] 50% building 177/177 modules 0 active 
+<s> [webpack.Progress] 50% building 177/178 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/window.js
+<s> [webpack.Progress] 50% building 178/178 modules 0 active 
+<s> [webpack.Progress] 50% building 178/179 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/toArray.js
+<s> [webpack.Progress] 50% building 179/179 modules 0 active 
+<s> [webpack.Progress] 50% building 179/180 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/timestamp.js
+<s> [webpack.Progress] 50% building 180/180 modules 0 active 
+<s> [webpack.Progress] 50% building 180/181 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/timeoutWith.js
+<s> [webpack.Progress] 50% building 181/181 modules 0 active 
+<s> [webpack.Progress] 50% building 181/182 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/timeout.js
+<s> [webpack.Progress] 50% building 182/182 modules 0 active 
+<s> [webpack.Progress] 50% building 182/183 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/timeInterval.js
+<s> [webpack.Progress] 50% building 183/183 modules 0 active 
+<s> [webpack.Progress] 50% building 183/184 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/throwIfEmpty.js
+<s> [webpack.Progress] 50% building 184/184 modules 0 active 
+<s> [webpack.Progress] 50% building 184/185 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/throttleTime.js
+<s> [webpack.Progress] 50% building 185/185 modules 0 active 
+<s> [webpack.Progress] 50% building 185/186 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/throttle.js
+<s> [webpack.Progress] 50% building 186/186 modules 0 active 
+<s> [webpack.Progress] 50% building 186/187 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/tap.js
+<s> [webpack.Progress] 50% building 187/187 modules 0 active 
+<s> [webpack.Progress] 50% building 187/188 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/takeWhile.js
+<s> [webpack.Progress] 50% building 188/188 modules 0 active 
+<s> [webpack.Progress] 50% building 188/189 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/takeUntil.js
+<s> [webpack.Progress] 50% building 189/189 modules 0 active 
+<s> [webpack.Progress] 50% building 189/190 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/takeLast.js
+<s> [webpack.Progress] 50% building 190/190 modules 0 active 
+<s> [webpack.Progress] 50% building 190/191 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/take.js
+<s> [webpack.Progress] 50% building 191/191 modules 0 active 
+<s> [webpack.Progress] 50% building 191/192 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/switchMapTo.js
+<s> [webpack.Progress] 50% building 192/192 modules 0 active 
+<s> [webpack.Progress] 50% building 192/193 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/switchMap.js
+<s> [webpack.Progress] 50% building 193/193 modules 0 active 
+<s> [webpack.Progress] 50% building 193/194 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/switchAll.js
+<s> [webpack.Progress] 50% building 194/194 modules 0 active 
+<s> [webpack.Progress] 50% building 194/195 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/subscribeOn.js
+<s> [webpack.Progress] 50% building 195/195 modules 0 active 
+<s> [webpack.Progress] 50% building 195/196 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/startWith.js
+<s> [webpack.Progress] 50% building 196/196 modules 0 active 
+<s> [webpack.Progress] 50% building 196/197 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/skipWhile.js
+<s> [webpack.Progress] 50% building 197/197 modules 0 active 
+<s> [webpack.Progress] 50% building 197/198 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/skipUntil.js
+<s> [webpack.Progress] 50% building 198/198 modules 0 active 
+<s> [webpack.Progress] 50% building 198/199 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/skipLast.js
+<s> [webpack.Progress] 50% building 199/199 modules 0 active 
+<s> [webpack.Progress] 50% building 199/200 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/skip.js
+<s> [webpack.Progress] 50% building 200/200 modules 0 active 
+<s> [webpack.Progress] 50% building 200/201 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/single.js
+<s> [webpack.Progress] 50% building 201/201 modules 0 active 
+<s> [webpack.Progress] 50% building 201/202 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/shareReplay.js
+<s> [webpack.Progress] 50% building 202/202 modules 0 active 
+<s> [webpack.Progress] 50% building 202/203 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/share.js
+<s> [webpack.Progress] 50% building 203/203 modules 0 active 
+<s> [webpack.Progress] 50% building 203/204 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/sequenceEqual.js
+<s> [webpack.Progress] 50% building 204/204 modules 0 active 
+<s> [webpack.Progress] 50% building 204/205 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/scan.js
+<s> [webpack.Progress] 50% building 205/205 modules 0 active 
+<s> [webpack.Progress] 50% building 205/206 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/sampleTime.js
+<s> [webpack.Progress] 50% building 206/206 modules 0 active 
+<s> [webpack.Progress] 50% building 206/207 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/sample.js
+<s> [webpack.Progress] 50% building 207/207 modules 0 active 
+<s> [webpack.Progress] 50% building 207/208 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/retryWhen.js
+<s> [webpack.Progress] 50% building 208/208 modules 0 active 
+<s> [webpack.Progress] 50% building 208/209 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/retry.js
+<s> [webpack.Progress] 50% building 209/209 modules 0 active 
+<s> [webpack.Progress] 50% building 209/210 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/repeatWhen.js
+<s> [webpack.Progress] 50% building 210/210 modules 0 active 
+<s> [webpack.Progress] 50% building 210/211 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/repeat.js
+<s> [webpack.Progress] 50% building 211/211 modules 0 active 
+<s> [webpack.Progress] 50% building 211/212 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/reduce.js
+<s> [webpack.Progress] 50% building 212/212 modules 0 active 
+<s> [webpack.Progress] 50% building 212/213 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/race.js
+<s> [webpack.Progress] 50% building 213/213 modules 0 active 
+<s> [webpack.Progress] 50% building 213/214 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/publishReplay.js
+<s> [webpack.Progress] 50% building 214/214 modules 0 active 
+<s> [webpack.Progress] 50% building 214/215 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/publishLast.js
+<s> [webpack.Progress] 50% building 215/215 modules 0 active 
+<s> [webpack.Progress] 50% building 215/216 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/InnerSubscriber.js
+<s> [webpack.Progress] 50% building 216/216 modules 0 active 
+<s> [webpack.Progress] 50% building 216/217 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/publishBehavior.js
+<s> [webpack.Progress] 50% building 217/217 modules 0 active 
+<s> [webpack.Progress] 50% building 217/218 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/publish.js
+<s> [webpack.Progress] 50% building 218/218 modules 0 active 
+<s> [webpack.Progress] 50% building 218/219 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeToArray.js
+<s> [webpack.Progress] 50% building 219/219 modules 0 active 
+<s> [webpack.Progress] 50% building 219/220 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/pluck.js
+<s> [webpack.Progress] 50% building 220/220 modules 0 active 
+<s> [webpack.Progress] 50% building 220/221 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/partition.js
+<s> [webpack.Progress] 50% building 221/221 modules 0 active 
+<s> [webpack.Progress] 50% building 221/222 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeToObservable.js
+<s> [webpack.Progress] 50% building 222/222 modules 0 active 
+<s> [webpack.Progress] 50% building 222/223 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/mergeMap.js
+<s> [webpack.Progress] 50% building 223/223 modules 0 active 
+<s> [webpack.Progress] 50% building 223/224 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeToIterable.js
+<s> [webpack.Progress] 50% building 224/224 modules 0 active 
+<s> [webpack.Progress] 50% building 224/225 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/subscribeToPromise.js
+<s> [webpack.Progress] 50% building 225/225 modules 0 active 
+<s> [webpack.Progress] 50% building 225/226 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/pairwise.js
+<s> [webpack.Progress] 50% building 226/226 modules 0 active 
+<s> [webpack.Progress] 50% building 226/227 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/onErrorResumeNext.js
+<s> [webpack.Progress] 50% building 227/227 modules 0 active 
+<s> [webpack.Progress] 50% building 227/228 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/multicast.js
+<s> [webpack.Progress] 50% building 228/228 modules 0 active 
+<s> [webpack.Progress] 50% building 228/229 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/min.js
+<s> [webpack.Progress] 50% building 229/229 modules 0 active 
+<s> [webpack.Progress] 50% building 229/230 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/mergeScan.js
+<s> [webpack.Progress] 50% building 230/230 modules 0 active 
+<s> [webpack.Progress] 50% building 230/231 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/mergeMapTo.js
+<s> [webpack.Progress] 50% building 231/231 modules 0 active 
+<s> [webpack.Progress] 50% building 231/232 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/Immediate.js
+<s> [webpack.Progress] 50% building 232/232 modules 0 active 
+<s> [webpack.Progress] 50% building 232/233 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/scheduler/Action.js
+<s> [webpack.Progress] 50% building 233/233 modules 0 active 
+<s> [webpack.Progress] 50% building 233/234 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/merge.js
+<s> [webpack.Progress] 50% building 234/234 modules 0 active 
+<s> [webpack.Progress] 50% building 234/235 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/max.js
+<s> [webpack.Progress] 50% building 235/235 modules 0 active 
+<s> [webpack.Progress] 50% building 235/236 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/materialize.js
+<s> [webpack.Progress] 50% building 236/236 modules 0 active 
+<s> [webpack.Progress] 50% building 236/237 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/mapTo.js
+<s> [webpack.Progress] 50% building 237/237 modules 0 active 
+<s> [webpack.Progress] 50% building 237/238 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/last.js
+<s> [webpack.Progress] 50% building 238/238 modules 0 active 
+<s> [webpack.Progress] 50% building 238/239 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/isEmpty.js
+<s> [webpack.Progress] 50% building 239/239 modules 0 active 
+<s> [webpack.Progress] 50% building 239/240 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/ignoreElements.js
+<s> [webpack.Progress] 50% building 240/240 modules 0 active 
+<s> [webpack.Progress] 50% building 240/241 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/first.js
+<s> [webpack.Progress] 50% building 241/241 modules 0 active 
+<s> [webpack.Progress] 50% building 241/242 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/findIndex.js
+<s> [webpack.Progress] 50% building 242/242 modules 0 active 
+<s> [webpack.Progress] 50% building 242/243 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/find.js
+<s> [webpack.Progress] 50% building 243/243 modules 0 active 
+<s> [webpack.Progress] 50% building 243/244 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/finalize.js
+<s> [webpack.Progress] 50% building 244/244 modules 0 active 
+<s> [webpack.Progress] 50% building 244/245 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/expand.js
+<s> [webpack.Progress] 50% building 245/245 modules 0 active 
+<s> [webpack.Progress] 50% building 245/246 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/exhaustMap.js
+<s> [webpack.Progress] 50% building 246/246 modules 0 active 
+<s> [webpack.Progress] 50% building 246/247 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/exhaust.js
+<s> [webpack.Progress] 50% building 247/247 modules 0 active 
+<s> [webpack.Progress] 50% building 247/248 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/every.js
+<s> [webpack.Progress] 50% building 248/248 modules 0 active 
+<s> [webpack.Progress] 50% building 248/249 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/endWith.js
+<s> [webpack.Progress] 50% building 249/249 modules 0 active 
+<s> [webpack.Progress] 50% building 249/250 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/elementAt.js
+<s> [webpack.Progress] 50% building 250/250 modules 0 active 
+<s> [webpack.Progress] 50% building 250/251 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/distinctUntilKeyChanged.js
+<s> [webpack.Progress] 50% building 251/251 modules 0 active 
+<s> [webpack.Progress] 50% building 251/252 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/distinctUntilChanged.js
+<s> [webpack.Progress] 50% building 252/252 modules 0 active 
+<s> [webpack.Progress] 50% building 252/253 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/distinct.js
+<s> [webpack.Progress] 50% building 253/253 modules 0 active 
+<s> [webpack.Progress] 50% building 253/254 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/dematerialize.js
+<s> [webpack.Progress] 50% building 254/254 modules 0 active 
+<s> [webpack.Progress] 50% building 254/255 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/operators/delayWhen.js
+<s> [webpack.Progress] 50% building 255/255 modules 0 active 
+<s> [webpack.Progress] 50% building 255/256 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/util/isDate.js
+<s> [webpack.Progress] 50% building 256/256 modules 0 active 
+<s> [webpack.Progress] 50% building 256/257 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/rxjs/_esm2015/internal/observable/SubscribeOnObservable.js
+<s> [webpack.Progress] 50% building 257/257 modules 0 active 
+<s> [webpack.Progress] 70% building 257/257 modules 0 active 
+<s> [webpack.Progress] 70% finish module graph
+<s> [webpack.Progress] 70% finish module graph angular-compiler
+<s> [webpack.Progress] 70% finish module graph CommonJsUsageWarnPlugin
+<s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing
+<s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 72% basic dependencies optimization
+<s> [webpack.Progress] 72% dependencies optimization
+<s> [webpack.Progress] 73% advanced dependencies optimization
+<s> [webpack.Progress] 73% after dependencies optimization
+<s> [webpack.Progress] 71% chunk graph
+<s> [webpack.Progress] 71% after chunk graph
+<s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+<s> [webpack.Progress] 74% optimizing
+<s> [webpack.Progress] 74% basic module optimization
+<s> [webpack.Progress] 75% module optimization
+<s> [webpack.Progress] 75% module optimization CircularDependencyPlugin
+<s> [webpack.Progress] 75% advanced module optimization
+<s> [webpack.Progress] 76% after module optimization
+<s> [webpack.Progress] 76% basic chunk optimization
+<s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 77% chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RuntimeChunkPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 77% after chunk optimization
+<s> [webpack.Progress] 78% module and chunk tree optimization
+<s> [webpack.Progress] 78% after module and chunk tree optimization
+<s> [webpack.Progress] 79% basic chunk modules optimization
+<s> [webpack.Progress] 80% chunk modules optimization
+<s> [webpack.Progress] 80% advanced chunk modules optimization
+<s> [webpack.Progress] 81% after chunk modules optimization
+<s> [webpack.Progress] 81% module reviving
+<s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% module order optimization
+<s> [webpack.Progress] 82% advanced module order optimization
+<s> [webpack.Progress] 83% before module ids
+<s> [webpack.Progress] 83% before module ids HashedModuleIdsPlugin
+<s> [webpack.Progress] 83% module ids
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 85% chunk reviving
+<s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 85% chunk order optimization
+<s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+<s> [webpack.Progress] 86% before chunk ids
+<s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+<s> [webpack.Progress] 86% chunk id optimization
+<s> [webpack.Progress] 87% after chunk id optimization
+<s> [webpack.Progress] 87% record modules
+<s> [webpack.Progress] 87% record modules RecordIdsPlugin
+<s> [webpack.Progress] 87% record chunks
+<s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+<s> [webpack.Progress] 88% hashing
+<s> [webpack.Progress] 88% after hashing
+<s> [webpack.Progress] 89% record hash
+<s> [webpack.Progress] 89% module assets processing
+<s> [webpack.Progress] 90% chunk assets processing
+<s> [webpack.Progress] 90% additional chunk assets processing
+<s> [webpack.Progress] 91% recording
+<s> [webpack.Progress] 92% additional asset processing
+<s> [webpack.Progress] 92% additional asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin polyfills.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin runtime.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin styles.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin vendor.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin polyfills.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin runtime.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin styles.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin vendor.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 93% asset optimization
+<s> [webpack.Progress] 94% after asset optimization
+<s> [webpack.Progress] 94% after seal
+<s> [webpack.Progress] 95% emitting
+<s> [webpack.Progress] 95% emitting index-html-webpack-plugin
+<s> [webpack.Progress] 98% after emitting
+<s> [webpack.Progress] 98% after emitting angular-compiler
+<s> [webpack.Progress] 98% after emitting SizeLimitsPlugin
+<s> [webpack.Progress] 100% 
+
+<s> [webpack.Progress] 0% compiling
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 30% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 1/1 modules 0 active 
+<s> [webpack.Progress] 50% building 1/2 modules 1 active /home/e20190012117/projetWeb/ventes/$$_lazy_route_resource lazy groupOptions: {} namespace object
+<s> [webpack.Progress] 50% building 2/2 modules 0 active 
+<s> [webpack.Progress] 50% building 2/3 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app-routing.module.ts
+<s> [webpack.Progress] 50% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% finish module graph
+<s> [webpack.Progress] 70% finish module graph angular-compiler
+<s> [webpack.Progress] 70% finish module graph CommonJsUsageWarnPlugin
+<s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing
+<s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 72% basic dependencies optimization
+<s> [webpack.Progress] 72% dependencies optimization
+<s> [webpack.Progress] 73% advanced dependencies optimization
+<s> [webpack.Progress] 73% after dependencies optimization
+<s> [webpack.Progress] 71% chunk graph
+<s> [webpack.Progress] 71% after chunk graph
+<s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+<s> [webpack.Progress] 74% optimizing
+<s> [webpack.Progress] 74% basic module optimization
+<s> [webpack.Progress] 75% module optimization
+<s> [webpack.Progress] 75% module optimization CircularDependencyPlugin
+<s> [webpack.Progress] 75% advanced module optimization
+<s> [webpack.Progress] 76% after module optimization
+<s> [webpack.Progress] 76% basic chunk optimization
+<s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 77% chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RuntimeChunkPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 77% after chunk optimization
+<s> [webpack.Progress] 78% module and chunk tree optimization
+<s> [webpack.Progress] 78% after module and chunk tree optimization
+<s> [webpack.Progress] 79% basic chunk modules optimization
+<s> [webpack.Progress] 80% chunk modules optimization
+<s> [webpack.Progress] 80% advanced chunk modules optimization
+<s> [webpack.Progress] 81% after chunk modules optimization
+<s> [webpack.Progress] 81% module reviving
+<s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% module order optimization
+<s> [webpack.Progress] 82% advanced module order optimization
+<s> [webpack.Progress] 83% before module ids
+<s> [webpack.Progress] 83% before module ids HashedModuleIdsPlugin
+<s> [webpack.Progress] 83% module ids
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 85% chunk reviving
+<s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 85% chunk order optimization
+<s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+<s> [webpack.Progress] 86% before chunk ids
+<s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+<s> [webpack.Progress] 86% chunk id optimization
+<s> [webpack.Progress] 87% after chunk id optimization
+<s> [webpack.Progress] 87% record modules
+<s> [webpack.Progress] 87% record modules RecordIdsPlugin
+<s> [webpack.Progress] 87% record chunks
+<s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+<s> [webpack.Progress] 88% hashing
+<s> [webpack.Progress] 88% after hashing
+<s> [webpack.Progress] 89% record hash
+<s> [webpack.Progress] 89% module assets processing
+<s> [webpack.Progress] 90% chunk assets processing
+<s> [webpack.Progress] 90% additional chunk assets processing
+<s> [webpack.Progress] 91% recording
+<s> [webpack.Progress] 92% additional asset processing
+<s> [webpack.Progress] 92% additional asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.js generate SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin main.js attach SourceMap
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 93% asset optimization
+<s> [webpack.Progress] 94% after asset optimization
+<s> [webpack.Progress] 94% after seal
+<s> [webpack.Progress] 95% emitting
+<s> [webpack.Progress] 95% emitting index-html-webpack-plugin
+<s> [webpack.Progress] 98% after emitting
+<s> [webpack.Progress] 98% after emitting angular-compiler
+<s> [webpack.Progress] 98% after emitting SizeLimitsPlugin
+<s> [webpack.Progress] 100% 
+
+<s> [webpack.Progress] 0% compiling
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 30% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 1/1 modules 0 active 
+<s> [webpack.Progress] 50% building 1/2 modules 1 active /home/e20190012117/projetWeb/ventes/$$_lazy_route_resource lazy groupOptions: {} namespace object
+<s> [webpack.Progress] 50% building 2/2 modules 0 active 
+<s> [webpack.Progress] 50% building 2/3 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app-routing.module.ts
+<s> [webpack.Progress] 70% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% finish module graph
+<s> [webpack.Progress] 70% finish module graph angular-compiler
+<s> [webpack.Progress] 70% finish module graph CommonJsUsageWarnPlugin
+<s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing
+<s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 72% basic dependencies optimization
+<s> [webpack.Progress] 72% dependencies optimization
+<s> [webpack.Progress] 73% advanced dependencies optimization
+<s> [webpack.Progress] 73% after dependencies optimization
+<s> [webpack.Progress] 71% chunk graph
+<s> [webpack.Progress] 71% after chunk graph
+<s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+<s> [webpack.Progress] 74% optimizing
+<s> [webpack.Progress] 74% basic module optimization
+<s> [webpack.Progress] 75% module optimization
+<s> [webpack.Progress] 75% module optimization CircularDependencyPlugin
+<s> [webpack.Progress] 75% advanced module optimization
+<s> [webpack.Progress] 76% after module optimization
+<s> [webpack.Progress] 76% basic chunk optimization
+<s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 77% chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RuntimeChunkPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 77% after chunk optimization
+<s> [webpack.Progress] 78% module and chunk tree optimization
+<s> [webpack.Progress] 78% after module and chunk tree optimization
+<s> [webpack.Progress] 79% basic chunk modules optimization
+<s> [webpack.Progress] 80% chunk modules optimization
+<s> [webpack.Progress] 80% advanced chunk modules optimization
+<s> [webpack.Progress] 81% after chunk modules optimization
+<s> [webpack.Progress] 81% module reviving
+<s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% module order optimization
+<s> [webpack.Progress] 82% advanced module order optimization
+<s> [webpack.Progress] 83% before module ids
+<s> [webpack.Progress] 83% before module ids HashedModuleIdsPlugin
+<s> [webpack.Progress] 83% module ids
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 85% chunk reviving
+<s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 85% chunk order optimization
+<s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+<s> [webpack.Progress] 86% before chunk ids
+<s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+<s> [webpack.Progress] 86% chunk id optimization
+<s> [webpack.Progress] 87% after chunk id optimization
+<s> [webpack.Progress] 87% record modules
+<s> [webpack.Progress] 87% record modules RecordIdsPlugin
+<s> [webpack.Progress] 87% record chunks
+<s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+<s> [webpack.Progress] 88% hashing
+<s> [webpack.Progress] 88% after hashing
+<s> [webpack.Progress] 89% record hash
+<s> [webpack.Progress] 89% module assets processing
+<s> [webpack.Progress] 90% chunk assets processing
+<s> [webpack.Progress] 90% additional chunk assets processing
+<s> [webpack.Progress] 91% recording
+<s> [webpack.Progress] 92% additional asset processing
+<s> [webpack.Progress] 92% additional asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 93% asset optimization
+<s> [webpack.Progress] 94% after asset optimization
+<s> [webpack.Progress] 94% after seal
+<s> [webpack.Progress] 95% emitting
+<s> [webpack.Progress] 95% emitting index-html-webpack-plugin
+<s> [webpack.Progress] 98% after emitting
+<s> [webpack.Progress] 98% after emitting angular-compiler
+<s> [webpack.Progress] 98% after emitting SizeLimitsPlugin
+<s> [webpack.Progress] 100% 
+
+<s> [webpack.Progress] 0% compiling
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/0 modules 0 active 
+<s> [webpack.Progress] 10% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 30% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 0/1 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app.module.ts
+<s> [webpack.Progress] 50% building 1/1 modules 0 active 
+<s> [webpack.Progress] 50% building 1/2 modules 1 active /home/e20190012117/projetWeb/ventes/$$_lazy_route_resource lazy groupOptions: {} namespace object
+<s> [webpack.Progress] 50% building 2/2 modules 0 active 
+<s> [webpack.Progress] 50% building 2/3 modules 1 active /home/e20190012117/projetWeb/ventes/node_modules/@ngtools/webpack/src/index.js!/home/e20190012117/projetWeb/ventes/src/app/app-routing.module.ts
+<s> [webpack.Progress] 70% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% building 3/3 modules 0 active 
+<s> [webpack.Progress] 70% finish module graph
+<s> [webpack.Progress] 70% finish module graph angular-compiler
+<s> [webpack.Progress] 70% finish module graph CommonJsUsageWarnPlugin
+<s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing
+<s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 72% basic dependencies optimization
+<s> [webpack.Progress] 72% dependencies optimization
+<s> [webpack.Progress] 73% advanced dependencies optimization
+<s> [webpack.Progress] 73% after dependencies optimization
+<s> [webpack.Progress] 71% chunk graph
+<s> [webpack.Progress] 71% after chunk graph
+<s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+<s> [webpack.Progress] 74% optimizing
+<s> [webpack.Progress] 74% basic module optimization
+<s> [webpack.Progress] 75% module optimization
+<s> [webpack.Progress] 75% module optimization CircularDependencyPlugin
+<s> [webpack.Progress] 75% advanced module optimization
+<s> [webpack.Progress] 76% after module optimization
+<s> [webpack.Progress] 76% basic chunk optimization
+<s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 77% chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization
+<s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RuntimeChunkPlugin
+<s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 77% after chunk optimization
+<s> [webpack.Progress] 78% module and chunk tree optimization
+<s> [webpack.Progress] 78% after module and chunk tree optimization
+<s> [webpack.Progress] 79% basic chunk modules optimization
+<s> [webpack.Progress] 80% chunk modules optimization
+<s> [webpack.Progress] 80% advanced chunk modules optimization
+<s> [webpack.Progress] 81% after chunk modules optimization
+<s> [webpack.Progress] 81% module reviving
+<s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% module order optimization
+<s> [webpack.Progress] 82% advanced module order optimization
+<s> [webpack.Progress] 83% before module ids
+<s> [webpack.Progress] 83% before module ids HashedModuleIdsPlugin
+<s> [webpack.Progress] 83% module ids
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 84% module id optimization
+<s> [webpack.Progress] 85% chunk reviving
+<s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 85% chunk order optimization
+<s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+<s> [webpack.Progress] 86% before chunk ids
+<s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+<s> [webpack.Progress] 86% chunk id optimization
+<s> [webpack.Progress] 87% after chunk id optimization
+<s> [webpack.Progress] 87% record modules
+<s> [webpack.Progress] 87% record modules RecordIdsPlugin
+<s> [webpack.Progress] 87% record chunks
+<s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+<s> [webpack.Progress] 88% hashing
+<s> [webpack.Progress] 88% after hashing
+<s> [webpack.Progress] 89% record hash
+<s> [webpack.Progress] 89% module assets processing
+<s> [webpack.Progress] 90% chunk assets processing
+<s> [webpack.Progress] 90% additional chunk assets processing
+<s> [webpack.Progress] 91% recording
+<s> [webpack.Progress] 92% additional asset processing
+<s> [webpack.Progress] 92% additional asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 93% after chunk asset optimization SourceMapDevToolPlugin
+<s> [webpack.Progress] 93% after chunk asset optimization AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 93% asset optimization
+<s> [webpack.Progress] 94% after asset optimization
+<s> [webpack.Progress] 94% after seal
+<s> [webpack.Progress] 95% emitting
+<s> [webpack.Progress] 95% emitting index-html-webpack-plugin
+<s> [webpack.Progress] 98% after emitting
+<s> [webpack.Progress] 98% after emitting angular-compiler
+<s> [webpack.Progress] 98% after emitting SizeLimitsPlugin
+<s> [webpack.Progress] 100% 
+

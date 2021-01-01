@@ -1,0 +1,13 @@
+
+<div *ngFor="let produit of produits">
+  <div id="content">
+    <img class="photo img" src="{{produit.photo}}" alt="product photo">
+  </div>
+  <p><b>nom :</b> {{ produit.nom }}</p>
+  <p><b>prix: </b>{{produit.prix}}</p>
+  <p><b>stock: </b>{{produit.stock}}</p>
+  <ul *ngFor="let description of produit.description">
+    <li class="desc">{{description}}</li>
+  </ul>
+
+</div>

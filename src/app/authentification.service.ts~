@@ -1,0 +1,35 @@
+import { Injectable } from '@angular/core';
+import { HttpClient, HttpHeaders} from '@angular/common/http';
+import { Subject, BehaviorSubject, Observable } from 'rxjs';
+import {observable }  from 'rxjs';
+const HttpOptions = {
+  Headers : new HttpHeaders ({
+    "Access-Control-Allow-Methods" : "GET, POST",
+    "Access-Control-Allow-Headers" : "Content-type", 
+    "Access-Control-Allow-Origin" : "*",
+    "Content-type" : "application/json"
+  })
+}
+@Injectable({ providedIn: 'root'})
+
+export class AuthentificationService {
+  private user : Subject<String>=new BehaviorSubject<String>(undefined);
+  private baseURL : string="http://localhost:8888/";
+
+  constructor( private http : HttpClient) { }
+
+  getUser() {
+    return this.user;
+  }
+  connect(data : string) {
+    this.user.next(data);
+  }
+  disconnect() {
+    this.user.next(null);
+  }
+  verificationConnexion(identifiants) : Observable<any> {
+    return this.http.post(
+      "http://localhost:8888/membre/connexion",JSON.stringify(identifiants), HttpOptions);
+    
+  }
+}
