@@ -43,9 +43,10 @@ const routes: Routes = [
   },
 
   {
-    'path':'produits/details',
+    'path':'produits/:produitId',
     'component':DetailsComponent
   },
+
 
   {
     'path':'notfound',

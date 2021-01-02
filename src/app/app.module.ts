@@ -3,6 +3,11 @@ import { HttpClientModule } from '@angular/common/http' ;
 import { FormsModule } from '@angular/forms' ;
 import { BrowserModule } from '@angular/platform-browser';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { MatIconModule } from '@angular/material/icon';
+import { MatButtonModule } from '@angular/material/button';
+import {  MatCardModule } from '@angular/material/card';
+import {  MatProgressBarModule } from '@angular/material/progress-bar';
+import { MatToolbarModule } from '@angular/material/toolbar';
 
 import { produitsService } from './produits.service' ;
 import { AppRoutingModule } from './app-routing.module';
@@ -21,6 +26,8 @@ import { ProduitsParCategorieComponent } from './produits-par-categorie/produits
 import { FilterPipe } from './filter.pipe';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { DetailsComponent } from './produits/details/details.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 
 //import { count } from 'rxjs/operators';
 
@@ -41,7 +48,8 @@ import { DetailsComponent } from './produits/details/details.component';
     ProduitsParCategorieComponent,
     FilterPipe,
     NotFoundComponent,
-    DetailsComponent
+    DetailsComponent,
+
   ],
   imports: [
     BrowserModule,
@@ -49,7 +57,13 @@ import { DetailsComponent } from './produits/details/details.component';
     HttpClientModule,
     FormsModule,
     StoreModule.forRoot({count : counterReducer} ),
-    FontAwesomeModule
+    FontAwesomeModule,
+    BrowserAnimationsModule,
+    MatToolbarModule,
+    MatIconModule,
+    MatButtonModule,
+    MatCardModule,
+    MatProgressBarModule
   ],
   providers: [produitsService],
   bootstrap: [AppComponent]

@@ -1,3 +1,4 @@
+import { OrderService } from './order.service';
 import { Produits } from './model/produits';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http' ;
@@ -5,6 +6,8 @@ import {  Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { createReducer, on } from '@ngrx/store';
 import { createAction } from '@ngrx/store';
+import { ActivatedRoute, Params, Router } from '@angular/router'
+
 
 
 export const increment = createAction('[Counter Component] Increment');
@@ -34,13 +37,21 @@ export class produitsService {
 
 
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient, private orderService: OrderService, private router: Router) { }
 
   getProduits(): Observable<any> {
     let url = this.urlBase+'produits';
-    console.log("Dans le service ProduitsService avec"+url);
+    console.log("Dans le service ProduitsService avec "+url);
     return this.http.get(url);
   }
+
+    // pid = Product ID
+  getProduitsParID(produitId): Observable<any>{
+      let url = this.urlBase+'produits/'+produitId;
+      console.log("Dans le service ProduitsServices avec "+url);
+      return this.http.get(url);
+    }
+
 
   getCategories(): Observable<any>{
     let url = this.urlBase + 'categories';
